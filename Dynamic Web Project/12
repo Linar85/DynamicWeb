@@ -19,5 +19,7 @@ ALTER TABLE books.books
     insert into books.books(id, name) values (0, 'Buhari');
     insert into books.books(id, name) values (1, 'Muslim');
     insert into books.books(id, name) values (2, 'Tirmizi');
+    insert into books.books(id, name) values (3, 'abu Daud');
+    insert into books.books(id, name) values (4, 'an Nasai');
     
     select * from books.books;
